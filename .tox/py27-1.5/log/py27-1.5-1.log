@@ -1,0 +1,129 @@
+actionid=py27-1.5
+msg=getenv
+cmdargs=[local('/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/bin/pip'), 'install', '--pre', '-r/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt', 'python-digest', 'django-oauth-plus', 'oauth2', 'django==1.5.1']
+env={'CPPFLAGS': '-Qunused-arguments', 'PYTHONIOENCODING': 'utf_8', 'rvm_version': '1.20.5 (stable)', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'rvm_path': '/Users/numan/.rvm', 'RUBY_VERSION': 'ruby-2.0.0-p0', 'LOGNAME': 'numan', 'USER': 'numan', 'HOME': '/Users/numan', 'PATH': '/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/bin:/Users/numan/.virtualenvs/tastypie/bin:/Users/numan/.rvm/gems/ruby-2.0.0-p0/bin:/Users/numan/.rvm/gems/ruby-2.0.0-p0@global/bin:/Users/numan/.rvm/rubies/ruby-2.0.0-p0/bin:/Users/numan/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/go/bin:/Users/numan/bin:/opt/local/bin', 'PS1': '(tastypie)\\h:\\W \\u\\$ ', 'TERM_PROGRAM': 'iTerm.app', 'LANG': 'en_CA.UTF-8', 'TERM': 'xterm', 'SHELL': '/bin/bash', 'COLORFGBG': '7;0', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '1', 'SECURITYSESSIONID': '186a4', 'ITERM_SESSION_ID': 'w0t4p0', 'PYTHONHASHSEED': '3232802929', 'TMPDIR': '/var/folders/8g/dkrmnhkd525bv8tpnvdrdsbr0000gn/T/', 'GEM_PATH': '/Users/numan/.rvm/gems/ruby-2.0.0-p0:/Users/numan/.rvm/gems/ruby-2.0.0-p0@global', 'rvm_bin_path': '/Users/numan/.rvm/bin', 'WORKON_HOME': '/Users/numan/.virtualenvs', 'rvm_prefix': '/Users/numan', 'PYTHONPATH': '/Users/numan/.virtualenvs/tastypie/sg-django-tastypie:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests', 'SSH_AUTH_SOCK': '/tmp/launch-iPNzTz/Listeners', 'VIRTUAL_ENV': '/Users/numan/.virtualenvs/tastypie', 'IRBRC': '/Users/numan/.rvm/rubies/ruby-2.0.0-p0/.irbrc', 'MY_RUBY_HOME': '/Users/numan/.rvm/rubies/ruby-2.0.0-p0', 'Apple_PubSub_Socket_Render': '/tmp/launch-RvPqfu/Render', 'ITERM_PROFILE': 'Default', '_': '/Users/numan/.virtualenvs/tastypie/bin/tox', 'VIRTUALENVWRAPPER_PROJECT_FILENAME': '.project', 'VIRTUALENVWRAPPER_HOOK_DIR': '/Users/numan/.virtualenvs', 'OLDPWD': '/Users/numan/.virtualenvs/tastypie', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/numan/.virtualenvs/tastypie/sg-django-tastypie', 'CFLAGS': '-Qunused-arguments', '__CHECKFIX1436934': '1', 'GEM_HOME': '/Users/numan/.rvm/gems/ruby-2.0.0-p0', 'COMMAND_MODE': 'unix2003'}
+Downloading/unpacking python-digest
+  Downloading python-digest-1.7.tar.gz
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/python-digest/setup.py) egg_info for package python-digest
+    
+Downloading/unpacking django-oauth-plus
+  Downloading django-oauth-plus-2.2.4.tar.gz
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/django-oauth-plus/setup.py) egg_info for package django-oauth-plus
+    zip_safe flag not set; analyzing archive contents...
+    
+    Installed /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/django-oauth-plus/setuptools_hg-0.4-py2.7.egg
+    
+Downloading/unpacking oauth2
+  Downloading oauth2-1.5.211.tar.gz
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/oauth2/setup.py) egg_info for package oauth2
+    
+Downloading/unpacking django==1.5.1
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/django/setup.py) egg_info for package django
+    
+    warning: no previously-included files matching '__pycache__' found under directory '*'
+    warning: no previously-included files matching '*.py[co]' found under directory '*'
+Downloading/unpacking lxml (from -r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 1))
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/lxml/setup.py) egg_info for package lxml
+    /System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/distutils/dist.py:267: UserWarning: Unknown distribution option: 'bugtrack_url'
+      warnings.warn(msg)
+    Building lxml version 3.3.3.
+    Building without Cython.
+    Using build configuration of libxslt 1.1.28
+    
+    warning: no previously-included files found matching '*.py'
+Downloading/unpacking defusedxml (from -r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 2))
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/defusedxml/setup.py) egg_info for package defusedxml
+    
+Downloading/unpacking biplist (from -r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 3))
+  Downloading biplist-0.6.tar.gz
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/biplist/setup.py) egg_info for package biplist
+    
+Downloading/unpacking pyyaml (from -r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 4))
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/pyyaml/setup.py) egg_info for package pyyaml
+    
+Downloading/unpacking python-mimeparse>=0.1.4 (from -r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 5))
+  Downloading python-mimeparse-0.1.4.tar.gz
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/python-mimeparse/setup.py) egg_info for package python-mimeparse
+    
+Downloading/unpacking python-dateutil>=2.1 (from -r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 6))
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/python-dateutil/setup.py) egg_info for package python-dateutil
+    
+Downloading/unpacking mock (from -r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 7))
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/mock/setup.py) egg_info for package mock
+    
+    warning: no files found matching '*.png' under directory 'docs'
+    warning: no files found matching '*.css' under directory 'docs'
+    warning: no files found matching '*.html' under directory 'docs'
+    warning: no files found matching '*.js' under directory 'docs'
+Downloading/unpacking pytz==2013b (from -r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 8))
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/pytz/setup.py) egg_info for package pytz
+    
+    warning: no files found matching '*.pot' under directory 'pytz'
+    warning: no previously-included files found matching 'test_zdump.py'
+Downloading/unpacking South>=0.7.5 (from django-oauth-plus)
+Downloading/unpacking httplib2 (from oauth2)
+  Running setup.py (path:/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/httplib2/setup.py) egg_info for package httplib2
+    
+Downloading/unpacking six (from biplist->-r /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/tests/requirements.txt (line 3))
+  Downloading six-1.6.1-py2.py3-none-any.whl
+Installing collected packages: python-digest, django-oauth-plus, oauth2, django, lxml, defusedxml, biplist, pyyaml, python-mimeparse, python-dateutil, mock, pytz, South, httplib2, six
+  Running setup.py install for python-digest
+    
+  Running setup.py install for django-oauth-plus
+    
+  Running setup.py install for oauth2
+    
+  Running setup.py install for django
+    changing mode of build/scripts-2.7/django-admin.py from 644 to 755
+    
+    warning: no previously-included files matching '__pycache__' found under directory '*'
+    warning: no previously-included files matching '*.py[co]' found under directory '*'
+    changing mode of /Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/bin/django-admin.py to 755
+  Running setup.py install for lxml
+    /System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/distutils/dist.py:267: UserWarning: Unknown distribution option: 'bugtrack_url'
+      warnings.warn(msg)
+    Building lxml version 3.3.3.
+    Building without Cython.
+    Using build configuration of libxslt 1.1.28
+    building 'lxml.etree' extension
+    cc -DNDEBUG -g -fwrapv -Os -Wall -Wstrict-prototypes -Qunused-arguments -Qunused-arguments -arch x86_64 -arch i386 -pipe -I/usr/include/libxml2 -I/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/lxml/src/lxml/includes -I/System/Library/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c src/lxml/lxml.etree.c -o build/temp.macosx-10.9-intel-2.7/src/lxml/lxml.etree.o -w -flat_namespace
+    cc -bundle -undefined dynamic_lookup -arch x86_64 -arch i386 -Wl,-F. -Qunused-arguments -Qunused-arguments build/temp.macosx-10.9-intel-2.7/src/lxml/lxml.etree.o -lxslt -lexslt -lxml2 -lz -lm -o build/lib.macosx-10.9-intel-2.7/lxml/etree.so
+    building 'lxml.objectify' extension
+    cc -DNDEBUG -g -fwrapv -Os -Wall -Wstrict-prototypes -Qunused-arguments -Qunused-arguments -arch x86_64 -arch i386 -pipe -I/usr/include/libxml2 -I/Users/numan/.virtualenvs/tastypie/sg-django-tastypie/.tox/py27-1.5/build/lxml/src/lxml/includes -I/System/Library/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c src/lxml/lxml.objectify.c -o build/temp.macosx-10.9-intel-2.7/src/lxml/lxml.objectify.o -w -flat_namespace
+    cc -bundle -undefined dynamic_lookup -arch x86_64 -arch i386 -Wl,-F. -Qunused-arguments -Qunused-arguments build/temp.macosx-10.9-intel-2.7/src/lxml/lxml.objectify.o -lxslt -lexslt -lxml2 -lz -lm -o build/lib.macosx-10.9-intel-2.7/lxml/objectify.so
+    
+  Running setup.py install for defusedxml
+    
+  Running setup.py install for biplist
+    
+  Running setup.py install for pyyaml
+    checking if libyaml is compilable
+    cc -DNDEBUG -g -fwrapv -Os -Wall -Wstrict-prototypes -Qunused-arguments -Qunused-arguments -arch x86_64 -arch i386 -pipe -I/System/Library/Frameworks/Python.framework/Versions/2.7/include/python2.7 -c build/temp.macosx-10.9-intel-2.7/check_libyaml.c -o build/temp.macosx-10.9-intel-2.7/check_libyaml.o
+    build/temp.macosx-10.9-intel-2.7/check_libyaml.c:2:10: fatal error: 'yaml.h' file not found
+    #include <yaml.h>
+             ^
+    1 error generated.
+    
+    libyaml is not found or a compiler error: forcing --without-libyaml
+    (if libyaml is installed correctly, you may need to
+     specify the option --include-dirs or uncomment and
+     modify the parameter include_dirs in setup.cfg)
+    
+  Running setup.py install for python-mimeparse
+    
+  Running setup.py install for python-dateutil
+    
+  Running setup.py install for mock
+    
+    warning: no files found matching '*.png' under directory 'docs'
+    warning: no files found matching '*.css' under directory 'docs'
+    warning: no files found matching '*.html' under directory 'docs'
+    warning: no files found matching '*.js' under directory 'docs'
+  Running setup.py install for pytz
+    
+    warning: no files found matching '*.pot' under directory 'pytz'
+    warning: no previously-included files found matching 'test_zdump.py'
+  Running setup.py install for httplib2
+    
+Successfully installed python-digest django-oauth-plus oauth2 django lxml defusedxml biplist pyyaml python-mimeparse python-dateutil mock pytz South httplib2 six
+Cleaning up...
