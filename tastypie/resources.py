@@ -893,6 +893,9 @@ class Resource(six.with_metaclass(DeclarativeMetaclass)):
             # Check for an optional method to do further hydration.
             method = getattr(self, "hydrate_%s" % field_name, None)
 
+            if method:
+                bundle = method(bundle)
+
             if field_object.attribute:
                 value = field_object.hydrate(bundle)
 
